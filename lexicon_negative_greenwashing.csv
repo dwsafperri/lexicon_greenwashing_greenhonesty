@@ -3,11 +3,11 @@ bersertifikat,0
 organik,-3
 daur ulang,-3
 terbarukan,-3
-transparansi,1
-audit,1
-laporan keberlanjutan,1
+transparansi,-1
+audit,-1
+laporan keberlanjutan,-1
 ramah lingkungan,-3
-berkelanjutan,-4
+berkelanjutan,-1
 eco-friendly,-4
 natural,-3
 biodegradable,-3
@@ -250,3 +250,4 @@ terima kasih,-5
 varian,-2
 recycleable,-3
 mudah terurai,-1
+green certified,-3
